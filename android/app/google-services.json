@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "876837579537",
+    "project_id": "flash-chat-app-e368f",
+    "storage_bucket": "flash-chat-app-e368f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876837579537:android:f3bcea0d6c1f6b4bd67ab0",
+        "android_client_info": {
+          "package_name": "com.badar.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876837579537-et5q1i8hneqtd5qksecqamct5viavgbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhuQfzWZasdh-F00Ur5fAOaYsAjmBdkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876837579537-et5q1i8hneqtd5qksecqamct5viavgbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
